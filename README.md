@@ -18,3 +18,5 @@ Although both these approaches were implemented correctly, they were not as prom
 # Areas of Improvement:
 Since the golf club is blurred while downswing, the tracking and detection fails. If you think any approach could tackle this problem, you can connect with me  
 
+# YOLOv5 Weights
+Yolov5 model weights for golf head detection can be found [here](https://drive.google.com/file/d/1KMdxNBPA-HZhrm2ht4W_cDrBWic-j9vT/view?usp=sharing)
